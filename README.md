@@ -1,5 +1,5 @@
-## Hi 👋 I am Brad
-I'm a Lead Software Developer at [BeyondTrust](https://www.beyondtrust.com). I current work on privilege management software using mostly the .NET ecosystem. I enjoy Java and a little bit of Golang as well.
+## 👋
+I'm a Principal Software Engineer at [BeyondTrust](https://www.beyondtrust.com). I current work on privilege management software using mostly the .NET ecosystem. I enjoy Java and a little bit of Golang as well.
 
 ---
 
